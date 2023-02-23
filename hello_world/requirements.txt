@@ -1,0 +1,6 @@
+requests
+pandas
+redshift_connector==2.0.910
+s3fs
+fsspec
+boto3==1.26.64
